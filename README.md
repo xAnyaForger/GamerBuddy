@@ -4,8 +4,6 @@ A desktop chatbot that helps users discover Steam games through natural conversa
 
 Built with Python, PyTorch, Hugging Face Transformers, and CustomTkinter.
 
-![Game recommendation chatbot interface](docs/screenshots/desktop-chat.png)
-
 ## Features
 
 - **Intent recognition:** distinguishes game recommendation requests from casual conversation using a fine-tuned BERT classifier.
