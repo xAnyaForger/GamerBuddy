@@ -227,5 +227,3 @@ The final reported validation accuracy is **99.84%** for distinguishing recommen
 ### Game Recommendation Display
 
 ![Recommended game with description, price, ratings, and Steam link](docs/screenshots/recommended-game.jpg)
-
-Screenshots and training results are from the accompanying project report.
