@@ -1,4 +1,4 @@
-# Multipurpose Game Recommendation Chatbot
+# GamerBuddy: An NLP-Powered Game Recommendation Chatbot
 
 A desktop chatbot that helps users discover Steam games through natural conversation. The system combines **BERT intent classification**, **rule-based game filtering**, and **generative language models** to recommend games and produce conversational responses.
 
